@@ -25,4 +25,3 @@ The world of Grand Theft Auto VI is vast and teeming with secrets waiting to be 
 * **Spoiler-Safe Navigation:** The toolkit allows you to get hints and general locations before revealing full details, so you can explore at your own pace.
 * **Community Discoveries & Updates:** This guide aims to be regularly updated with new findings from the community and potential official additions post-launch.
 
-## Sneak Peek
